@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Threadify Custom Apparel",
+  "description": "Premium design studio for engineered custom streetwear.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
